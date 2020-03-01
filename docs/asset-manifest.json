@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.0423eadf.chunk.css",
-    "main.js": "/static/js/main.91759fca.chunk.js",
-    "main.js.map": "/static/js/main.91759fca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.34913efb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.34913efb.js.map",
-    "static/css/2.dba924d2.chunk.css": "/static/css/2.dba924d2.chunk.css",
-    "static/js/2.4942098c.chunk.js": "/static/js/2.4942098c.chunk.js",
-    "static/js/2.4942098c.chunk.js.map": "/static/js/2.4942098c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7978a7affe2232187fedb57228b48f14.js": "/precache-manifest.7978a7affe2232187fedb57228b48f14.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.dba924d2.chunk.css.map": "/static/css/2.dba924d2.chunk.css.map",
-    "static/css/main.0423eadf.chunk.css.map": "/static/css/main.0423eadf.chunk.css.map",
-    "static/js/2.4942098c.chunk.js.LICENSE.txt": "/static/js/2.4942098c.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/static/media/logo.40edbd2a.png"
+    "main.css": "/holownia-volunteers-map/static/css/main.0423eadf.chunk.css",
+    "main.js": "/holownia-volunteers-map/static/js/main.36a2b204.chunk.js",
+    "main.js.map": "/holownia-volunteers-map/static/js/main.36a2b204.chunk.js.map",
+    "runtime-main.js": "/holownia-volunteers-map/static/js/runtime-main.03969d62.js",
+    "runtime-main.js.map": "/holownia-volunteers-map/static/js/runtime-main.03969d62.js.map",
+    "static/css/2.dba924d2.chunk.css": "/holownia-volunteers-map/static/css/2.dba924d2.chunk.css",
+    "static/js/2.4942098c.chunk.js": "/holownia-volunteers-map/static/js/2.4942098c.chunk.js",
+    "static/js/2.4942098c.chunk.js.map": "/holownia-volunteers-map/static/js/2.4942098c.chunk.js.map",
+    "index.html": "/holownia-volunteers-map/index.html",
+    "precache-manifest.e6123fa4c316de27fadd40ee87d5695c.js": "/holownia-volunteers-map/precache-manifest.e6123fa4c316de27fadd40ee87d5695c.js",
+    "service-worker.js": "/holownia-volunteers-map/service-worker.js",
+    "static/css/2.dba924d2.chunk.css.map": "/holownia-volunteers-map/static/css/2.dba924d2.chunk.css.map",
+    "static/css/main.0423eadf.chunk.css.map": "/holownia-volunteers-map/static/css/main.0423eadf.chunk.css.map",
+    "static/js/2.4942098c.chunk.js.LICENSE.txt": "/holownia-volunteers-map/static/js/2.4942098c.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/holownia-volunteers-map/static/media/logo.40edbd2a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.34913efb.js",
+    "static/js/runtime-main.03969d62.js",
     "static/css/2.dba924d2.chunk.css",
     "static/js/2.4942098c.chunk.js",
     "static/css/main.0423eadf.chunk.css",
-    "static/js/main.91759fca.chunk.js"
+    "static/js/main.36a2b204.chunk.js"
   ]
 }
