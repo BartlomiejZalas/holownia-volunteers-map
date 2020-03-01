@@ -2,7 +2,7 @@
   "name": "holownia-volunteers-map",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bartlomiejzalas.github.io/holownia-volunteers-map",
+  "homepage": "https://bartlomiejzalas.github.io/holownia-volunteers-map/",
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
     "@material-ui/core": "^4.9.4",
