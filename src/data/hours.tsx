@@ -1,0 +1,1 @@
+export const hours: number[] = Array.from(Array(24).keys())
